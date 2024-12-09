@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
-
     <!-- Permissions nécessaires -->
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-
 
     <application
         android:allowBackup="true"
@@ -17,15 +15,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyTaxi"
         tools:targetApi="31">
-
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
         <!-- Ajout de la clé API Google Maps -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="${MAPS_API_KEY}" />
 
-
         <activity
-            android:name=".MainActivity"
+            android:name=".CurrentPositionOfDriver"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
