@@ -38,7 +38,7 @@ We are proud to introduce the talented team behind *MyTaxi*:
 - *Fused Location Provider API*: For retrieving GPS positions.
 - *Room Database*: Local storage of trip data.
 - *Retrofit*: Network communication with servers.
-- *Firebase*: Push notifications and user management.
+- *local notifications*: Push notifications.
 
 ---
 
