@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.cmc.mytaxi"
+    namespace = "com.cmc.taxyteam"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.cmc.mytaxi"
+        applicationId = "com.cmc.taxyteam"
         minSdk = 27
         targetSdk = 35
         versionCode = 1
