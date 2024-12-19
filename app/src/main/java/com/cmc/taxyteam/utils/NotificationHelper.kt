@@ -5,7 +5,7 @@ import android.app.NotificationManager
 import android.content.Context
 import android.os.Build
 import androidx.core.app.NotificationCompat
-import com.cmc.taxyteam.R
+import com.cmc.mytaxi.R
 
 
 class NotificationHelper(private val context: Context) {

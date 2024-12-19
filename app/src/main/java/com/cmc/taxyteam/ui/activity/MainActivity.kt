@@ -7,8 +7,8 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.lifecycle.ViewModelProvider
+import com.cmc.mytaxi.R
 import com.cmc.taxyteam.App
-import com.cmc.taxyteam.R
 import com.cmc.taxyteam.data.repository.DriverRepository
 import com.cmc.taxyteam.data.viewmodel.ProfileViewModel
 import com.cmc.taxyteam.data.viewmodel.ProfileViewModelFactory

@@ -5,11 +5,11 @@ import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.View
 import androidx.lifecycle.ViewModelProvider
+import com.cmc.mytaxi.R
+import com.cmc.mytaxi.databinding.FragmentEditProfileBinding
 import com.cmc.taxyteam.App
-import com.cmc.taxyteam.R
 import com.cmc.taxyteam.data.local.models.Driver
 import com.cmc.taxyteam.data.repository.DriverRepository
-import com.cmc.taxyteam.databinding.FragmentEditProfileBinding
 import com.cmc.taxyteam.data.viewmodel.ProfileViewModel
 import com.cmc.taxyteam.data.viewmodel.ProfileViewModelFactory
 import com.google.zxing.BarcodeFormat

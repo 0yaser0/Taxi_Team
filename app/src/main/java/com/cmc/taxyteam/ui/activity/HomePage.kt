@@ -16,10 +16,10 @@ import androidx.core.content.ContextCompat
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.lifecycle.ViewModelProvider
-import com.cmc.taxyteam.R
+import com.cmc.mytaxi.R
+import com.cmc.mytaxi.databinding.ActivityHomePageBinding
 import com.cmc.taxyteam.data.viewmodel.CalculatTraficViewModel
 import com.cmc.taxyteam.data.viewmodel.CalculatTraficViewModelFactory
-import com.cmc.taxyteam.databinding.ActivityHomePageBinding
 import com.cmc.taxyteam.utils.NotificationHelper
 import com.cmc.taxyteam.utils.PermissionsHelper
 import com.google.android.gms.location.FusedLocationProviderClient
