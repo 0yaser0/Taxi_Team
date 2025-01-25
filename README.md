@@ -1,14 +1,14 @@
 ---
 
-# 🚕 *MyTaxi App*
+# 🚕 *Mini Taxi App*
 
-Welcome to *MyTaxi*, a mobile application designed to provide a smooth and efficient real-time location experience for taxi drivers. This project has been developed with love, collaboration, and expertise by our amazing team! 💻✨
+Welcome to *Mini Taxi*, a mobile application designed to provide a smooth and efficient real-time location experience for taxi drivers. This project has been developed with love, collaboration, and expertise by our amazing team! 💻✨
 
 ---
 
 ## 🌟 *Development Team*
 
-We are proud to introduce the talented team behind *MyTaxi*:
+We are proud to introduce the talented team behind *Mini Taxi*:
 
 - *Yaser* ✨ - Lead Developer
 - *Yahya* 🧑‍💻 - Integration Manager
