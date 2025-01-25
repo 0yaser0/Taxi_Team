@@ -66,6 +66,10 @@ The app requires the following permissions to function properly:
 
 ## 📸 *Preview*
 
+![cover_taxi](https://github.com/user-attachments/assets/1a8a015d-7d83-4e3c-ba49-693daebe6972)
+
+You can also view the presentation at this link : [📊 View the Presentation](https://www.canva.com/design/DAGZgBUOT_0/2W4qXMX20129nxuGeoF6bg/edit?utm_content=DAGZgBUOT_0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+
 ---
 
 ## 💬 *Contributions*
